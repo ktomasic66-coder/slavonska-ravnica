@@ -53,8 +53,10 @@ export default function Home() {
 
         <div className="flex gap-4">
           <a
-            href="#"
-            className="bg-yellow-500 text-black font-semibold px-6 py-3 rounded-xl hover:bg-yellow-400 transition"
+            href="https://discord.gg/kJsUAsaRnh"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="yellow-500 text-black font-semibold px-6 py-3 rounded-xl hover:bg-yellow-400 transition"
           >
             Pridruži se Discordu
           </a>
