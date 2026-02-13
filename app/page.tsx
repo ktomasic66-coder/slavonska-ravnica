@@ -64,7 +64,7 @@ export default function Home() {
 
           <a
             href="#"
-            className="border border-yellow-500 text-yellow-500 px-6 py-3 rounded-xl hover:bg-yellow-500 hover:text-black transition"
+            className="bg-yellow-500 text-black font-semibold px-8 py-4 rounded-2xl shadow-lg shadow-yellow-500/20 hover:bg-yellow-400 hover:shadow-yellow-500/40 hover:scale-105 transition-all duration-300"
           >
             Pravila Servera
           </a>
